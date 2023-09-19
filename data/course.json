@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "German"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ],
+    [
+      "Society",
+      "European and Russian Studies"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ]
+  ],
+  "legacy_uid": "ef415224-b760-92f8-9c5c-44f10680263f",
+  "instructors": {
+    "content": [
+      "4ae07a92-0e99-b303-e126-1ce5de0f6429"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "bdeea7a9-95c6-1d9d-800f-d05d610f4a82",
+    "website": "21g-412-texts-topics-and-times-in-german-literature-fall-2009"
+  },
+  "course_title": "Texts, Topics, and Times in German Literature",
+  "course_description": "In diesem Kurs erhalten Sie einen \u00dcberblick \u00fcber einige wichtige literarische Texte, Tendenzen und Themen aus der deutschsprachigen Literatur- und Kulturszene. Wir werden literarische Texte, Gedichte, Theaterst\u00fccke und Essays untersuchen, sowie andere \u00e4sthetische Formen besprechen, wie Film und Architektur. Da alle Texte gleichzeitig in ihrem spezifischen kulturellen Kontext gelesen werden, tragen sie zu einem Verst\u00e4ndnis von verschiedenen historischen Aspekten bei. Unter anderen werden folgende Themen und Fragestellungen besprochen: Technologie und deren Einfluss auf die Gesellschaft, Fragen der Ethik bei wissenschaftlicher Arbeit, Konstruktion von nationaler Geschichte und kollektivem Ged\u00e4chtnis.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.412",
+  "course_image_thumbnail": {
+    "content": "d46f7558-90cd-9ee7-fd66-3b7e97084b8d",
+    "website": "21g-412-texts-topics-and-times-in-german-literature-fall-2009"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "def7d67e-1798-4afc-918b-5441603df5bc",
+  "site_short_id": "21g.412-fall-2009",
+  "title": "Course Metadata"
+}
