@@ -1,0 +1,13 @@
+leftnav:
+- identifier: c4c204f6-601d-453c-71ab-96a9c66317a4
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 51c95b4a-c492-e808-b894-89ea5b9b9155
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 20
+- identifier: 33b77d2d-f3d9-72d4-a203-ca4a40b609be
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 30
